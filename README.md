@@ -35,4 +35,4 @@ Este script convierte los formatos `.PNG`, `.JPG` y `.JPEG` a `.WEBP` para optim
      
   2. **Código compilado a `.exe`:**
   
-     - Este no necesita descargar WebP, ya viene embebido dentro del código. Puedes descargar el binario desde **[AQUÍ](dummylink)**. 
+     - Este no necesita descargar WebP, ya viene embebido dentro del código. Puedes descargar el binario desde **[AQUÍ](https://github.com/JotaQC/Conversor-a-WEBP/releases/tag/v1.0)**. 
