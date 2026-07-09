@@ -31,7 +31,7 @@ Este script convierte los formatos `.PNG`, `.JPG` y `.JPEG` a `.WEBP` para optim
   Se puede usar de dos maneras:
   1. **Usando el código fuente:**
 
-     - Tener Python instalado previamente y descargar WebP desde **[AQUÍ](https://developers.google.com/speed/webp/download?hl=es-419)**. Debes pulsar donde diga **`Descargar para Windows`**.
+     - Tener Python instalado previamente y descargar WebP desde **[AQUÍ](https://developers.google.com/speed/webp/download?hl=es-419)**. Debes pulsar donde diga **`Descargar para Windows`**. Si usas el código fuente, cuando descargues WebP debes de descomprimir el `.zip` y poner el directorio generado donde se encuentre el `main.py` para la versión de Windows.
      
   2. **Código compilado a `.exe`:**
   
